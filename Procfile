@@ -1,1 +1,1 @@
-web: gunicorn wise_owl.wsgi
+web: gunicorn wise-owl.wsgi
